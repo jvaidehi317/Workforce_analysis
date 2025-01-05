@@ -1,4 +1,4 @@
-![Dash_image](https://github.com/user-attachments/assets/9dac5ae4-b360-4289-a8ca-25f0ee8972e5)
+
 HR Workforce Insight Dashboard-
 
 *Project Overview-
@@ -76,3 +76,4 @@ HR Workforce Insight Dashboard-
   ..Employee Engagement: Incorporating employee engagement metrics linked to attendance data for more comprehensive insights.
   
   ..Real-Time Integration: Integrating the dashboard with HR systems for live updates and tracking.
+![Dash_image](https://github.com/user-attachments/assets/c69207ee-57bb-4fe7-a96b-40deea0ad9ef)
